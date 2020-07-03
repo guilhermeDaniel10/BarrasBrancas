@@ -1,0 +1,4 @@
+Para correr o programa basta abrir o ficheiro chamado "BarrasBrancas.jar"
+
+
+Nota: usar pontos em vez de vírgulas
